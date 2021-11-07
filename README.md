@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Artem</h1>
-<h3 align="center">A little freaky about electronics and programmings and software engineer from Russia</h3>
+<h3 align="center">A little freaky about electronics and programmings. An unbelievable software engineer from Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=budn1k0ver&label=Profile%20views&color=0e75b6&style=flat" alt="budn1k0ver" /> </p>
 
